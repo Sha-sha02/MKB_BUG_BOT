@@ -1223,7 +1223,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${latensi.toFixed(4)} Second`,
-                            thumbnailUrl: 'https://i.imgur.com/I5BujDY.jpeg',
+                            thumbnailUrl: 'https://i.imgur.com/NYo8MAL.jpeg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1245,7 +1245,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://i.imgur.com/I5BujDY.jpeg',
+                            thumbnailUrl: 'https://i.imgur.com/NYo8MAL.jpeg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1265,7 +1265,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `FORGET DONATE`,
-                            thumbnailUrl: 'https://i.imgur.com/cKGh0kD.jpeg',
+                            thumbnailUrl: 'https://i.imgur.com/NYo8MAL.jpeg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1284,8 +1284,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on David Cyril WhatsApp channel `,
-                            thumbnailUrl: 'https://i.imgur.com/fc01UOt.jpeg',
+                            body: `SCRIPT OF ${botname} is on Malvin King WhatsApp channel `,
+                            thumbnailUrl: 'https://i.imgur.com/NYo8MAL.jpeg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -2405,7 +2405,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.imgur.com/KNSCdrP.jpeg',
+      thumbnailUrl: 'https://i.imgur.com/NYo8MAL.jpeg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
