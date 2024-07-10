@@ -1,104 +1,112 @@
-# ᎠᎬᎷᎾᏁ v2
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-<img src="https://telegra.ph/file/e653237d4be6ae8fb6921.jpg"/> 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____ᎠᎬᎷᎾᏁ+v2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+MALVIN+KING;REALESE+DATE+10%2F7%2F2024." alt="Typing SVG" /></a>
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center"> 𝕄𝕂𝔹_BUG_BOT </h1>
+<p align="center">  
+  
+***
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;𝕄𝕂𝔹_BUG_BOT;WHATSAPP+BUG+BOT;CREATED+BY+Malvin+King;RELEASED+29.06.24" alt="Typing SVG" /></a>
+  </p>
 
-### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
+𝕄𝕂𝔹 MD BUG BOT is a bug bot designed to disable the account of Scammers all over the world use  reasonable
 
-### 1. <a href="https://github.com/malvinking/Demon-md-v2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Demon-md-v2" width="70"></a>
+Yh i know my Readme Sucks and all Manage it 😶
 
-### 2. <a href="https://replit.com/@malvinking/Demon-PairCode?v=1#main.sh"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
+1. Click on **[Fork](https://github.com/malvinking/MKB_BUG_BOT/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
 
-### 3. <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
+**DEPLOYMENT PROCESS**
+### DEPLOY ON REPLIT
+IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
+    <br>
+    <a href='https://replit.com/github/malvinking/MKB_BUG_BOT' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-# Termux Deployment
-```
+
+### DEPLOYMENT ON TERMUX
+
+**Go to your termux and input this commands**
 termux-setup-storage
-```
-```
+
 apt update
-```
-```
+
 apt upgrade
-```
-```
+
 pkg update && pkg upgrade
-```
-```
+
 pkg install bash
-```
-```
+
 pkg install libwebp
-```
-```
+
 pkg install git -y
-```
-```
+
 pkg install nodejs -y
-```
-```
+
 pkg install ffmpeg -y 
-```
-```
+
 pkg install wget
-```
-```
+
+pkg install imagemagick -y
+
+
+If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
+
+If you see any question while upgrading with this options with Y or n for default, = Click n for Default
+
+6. After its done upgrading type or copy and paste:
+
+git clone  (copy and paste your forked repo not mine to save your changes) 
+
+7. After that type: 
+
+cd MKB_BUG_BOT
+
+8. after that type:
+
 pkg install yarn
-```
-```
-git clone (copy and paste your forked repo link not mine to save changes your changes) 
-```
-```
-cd Demon-md-v2
-```
-```
-yarn install
-```
-```
-npm start
-```
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-- If you want Command For 24/7 (might no work) 
-```js
-npm i -g forever && forever index.js && forever save && forever logs
-```
-<br>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<br>
-<h2 align="center"> 🛡️ Windows Cmd & Vs 🛡️ </h2>
+9. Then type:
 
-- [Download ffmpeg](https://ffmpeg.org/download.html#build-windows) and set the path
-- [Download wget](https://eternallybored.org/misc/wget/releases/) and set the path
-- [Download Node.js](https://nodejs.org/en/download/)
-- [Download Git](https://git-scm.com/downloads)
-- [Download Libwebp](https://developers.google.com/speed/webp/download)
+yarn install 
 
-```cmd
-> git clone https://github.com/malvinking/Demon-md-v2.git
-```
-```
-> cd A17
-```
-```
-> yarn install
-```
-```
-> npm start
-```
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+10. After that type:
 
-## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
- <br> 
-<p align="center">
-<a href="https://wa.me/256756210243"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/@speedtechi"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@speedtechi" /><br>
-<p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+npm start 
+
+11. It will ask you for your number type it with country code +
+12. It will give you a pair code go and link it to your WhatsApp 
+13. After linking
+14. Bot Connected ⚡
+15. Enjoy🤗
+
+### REPORT ISSUES
+
+if you're having any issues message me on
+WhatsApp: (https://wa.me/263780166288) 
+
+If the bot goes offline 
+Just type cd and the bot name 
+Then type npm start
+It will come online
+
+`Please 𝕄𝕂𝔹-𝕓𝕠𝕥 is just for fun, don't use it to harm innocent people`
+
+
+## Contributions
+
+Contributions to 𝕄𝕂𝔹-𝕓𝕠𝕥 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+
+   thanks to these people ;
+
+   **Xeon** who made the base bot
+
+   **DC YOUNG FLY** For helping me test it
+   
+   **David Cryil** for inspiration; <br>
+
+
+## License
+
+The WhatsApp Bot 𝕄𝕂𝔹 MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+Enjoy the diverse features of the WhatsApp Bot 𝕄𝕂𝔹 Md to enhance your conversations and make your WhatsApp experience more interesting!
+
+## Developers:
+
+-ᴍᴀʟᴠɪɴ-ᴋɪɴɢ

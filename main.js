@@ -1,3 +1,11 @@
+//base by Tech-God
+//re-upload? recode? copy code? give credit ya :)
+//YouTube: @techgod143
+//Instagram: techgod143
+//Telegram: t.me/techgod143
+//GitHub: @techgod143
+//WhatsApp: +917466008456
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@speedtechi
 
 require('./settings')
 const pino = require('pino')
@@ -10,7 +18,7 @@ const axios = require('axios')
 const PhoneNumber = require('awesome-phonenumber')
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetch, await, sleep, reSize } = require('./lib/myfunc')
-const { default: XeonBotIncConnect, delay, PHONENUMBER_MCC, makeCacheableSignalKeyStore, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto, Browsers} = require("@whiskeysockets/baileys")
+const { default: XeonBotIncConnect, delay, PHONENUMBER_MCC, makeCacheableSignalKeyStore, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@whiskeysockets/baileys")
 const NodeCache = require("node-cache")
 const Pino = require("pino")
 const readline = require("readline")
@@ -41,7 +49,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
     const XeonBotInc = makeWASocket({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: !pairingCode, // popping up QR in terminal log
-      browser: Browsers.windows('Firefox'), // for this issues https://github.com/WhiskeySockets/Baileys/issues/328
+      browser: [ "Ubuntu", "Chrome", "20.0.04" ], // for this issues https://github.com/WhiskeySockets/Baileys/issues/328
      auth: {
          creds: state.creds,
          keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
@@ -104,7 +112,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
             if (!XeonBotInc.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
             if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
             const m = smsg(XeonBotInc, mek, store)
-            require("./XeonBug6")(XeonBotInc, m, chatUpdate, store)
+            require("./XeonBug5")(XeonBotInc, m, chatUpdate, store)
         } catch (err) {
             console.log(err)
         }
@@ -168,11 +176,11 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: SPEED TECHI`))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: SPEED TECH`))
             console.log(chalk.magenta(`${themeemoji} GITHUB: malvinking `))
             console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @malvinking20`))
             console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
-            console.log(chalk.magenta(`${themeemoji} CREDIT: ${wm}\n`))
+            console.log(chalk.magenta(`${themeemoji} CREDIT: malvin king sir`))
         }
         if (
             connection === "close" &&
