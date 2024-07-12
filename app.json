@@ -1,8 +1,8 @@
 {
-  "name": "Spider-MD",
+  "name": "MKB_BUG_BOT",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Samue-l1/Classic-V4",
-  "logo": "https://telegra.ph/file/d2a1d3bbfabf34fabe666.jpg",
+  "repository": "https://github.com/malvinking/MKB_BUG_BOT",
+  "logo": "https://telegra.ph/file/e653237d4be6ae8fb6921.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"]
 "env": {
       "autoviewstatus": {
