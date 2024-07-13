@@ -78,10 +78,11 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Start the Worker
 * Enjoy the Bot.
 
-```
+``
 ## `For Termux/Ssh/Ubuntu`
-```bash
-```
+``bash
+
+
 ```
 apt update
 ```
