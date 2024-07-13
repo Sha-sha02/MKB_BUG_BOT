@@ -2,11 +2,17 @@
 
 <h1 align="center">𝐌𝐊𝐁_𝐁𝐔𝐆_𝐁𝐎𝐓 𝐕3-ꫂ<br></h1>
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;𝕄𝕂𝔹_BUG_BOT;WHATSAPP+BUG+BOT;CREATED+BY+Malvin+King;RELEASED+29.06.24" alt="Typing SVG" /></a>
+  </p>
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+<img src="https://imgur.com/NYo8MAL.jpeg"/> 
+ 
 <img src="https://telegra.ph/file/e653237d4be6ae8fb6921.jpg" />
 </p>
 
 <p align="center">
-𝗠𝗞𝗕 𝗕𝗨𝗚 𝗕𝗢𝗧  Multi Device is a whatsapp bot created by <a href="https://github.com/malvinking" target="_blank">Sam</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+𝗠𝗞𝗕 𝗕𝗨𝗚 𝗕𝗢𝗧  Multi Device is a whatsapp bot created by <a href="https://github.com/malvinking" target="_blank">Malvin</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
