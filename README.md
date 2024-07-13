@@ -81,32 +81,75 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 ## `For Termux/Ssh/Ubuntu`
 ```bash
-
+```
+```
 apt update
+```
+```
 apt upgrade
+```
+```
 pkg update && pkg upgrade
+```
+```
 pkg install bash
+```
+```
 pkg install libwebp
+```
+```
 pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
+```
+```
+pkg install nodejs -y
+```
+```
+pkg install ffmpeg -y
+```
+```
 pkg install wget
+```
+```
 pkg install imagemagick -y
+```
+```
 git clone https://github.com/malvinking/MKB_BUG_BOT 
-cd MKB_BUG_BOT 
+```
+```
+cd MKB_BUG_BOT
+```
+```
 yarn install
+```
+```
 npm start
 ```
 ## `For VPS`
 ```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
+apt install nodejs
+```
+```
+apt install git
+```
+```
+apt apt install ffmpeg
+```
+```
+apt apt install libwebp
+```
+```
 apt apt install imagrmagick
+```
+```
 apt install bash
-git clone https://github.com/malvinking/MKB_BUG_BOT 
-cd MKB_BUG_BOT 
+```
+```
+git clone https://github.com/malvinking/MKB_BUG_BOT
+```
+```
+cd MKB_BUG_BOT
+```
+```
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
