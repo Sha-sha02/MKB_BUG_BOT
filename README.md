@@ -6,8 +6,6 @@
   </p>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<img src="https://imgur.com/NYo8MAL.jpeg"/> 
- 
 <img src="https://telegra.ph/file/e653237d4be6ae8fb6921.jpg" />
 </p>
 
