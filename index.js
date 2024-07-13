@@ -1,21 +1,11 @@
-/*
-› Create By zetsubo
-› Base Ori zetsubo
-
-🌷 KALAU MAU RENAME TARO CREDITS GUA : HW MODS WA & ZetsuboXygen */
-
-//   • [ Recode Bye > ZetsuboXygen777]
-/*   # AND↓
-   THANKS TO >
-  XygenGod777( Watashi / 私 )
-  Hw Mods Wa / Haikal (Base)
-  Adiwajshing (Baileys)
-  whiskeysockets (Baileys)
-  Thunder X7 (Inspirate)
-  Pak Tzy (Inspirate)
-  ♥️ ありがとう
-                 >
-*/
+///base by Malvin king 
+//re-upload? recode? copy code? give credit ya :)
+//YouTube: @Malvin King Tech 
+//Instagram: malvinking20 
+//Telegram: t.me/malvink1ng 
+//GitHub: @malvinking 
+//WhatsApp: +263714757857
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@speedtechi
 
 require('./classicconf')
 const { default: makeWASocket, useMultiFileAuthState, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, getAggregateVotesInPollMessage, proto } = require("@whiskeysockets/baileys")
@@ -129,13 +119,13 @@ classic.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: 
  ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Terima Kasih Sudah Bergabung Jangan Lupa Baca Deskripsi Yah
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-Creator : https://wa.me/254742491666`})
+Creator : https://wa.me/263714757857`})
 } else if (anu.action == 'remove') {
 classic.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `Karena Untuk Setiap Ucapan Selamat Datang Akan Selalu Diakhiri Dengan Ucapan Selamat Tinggal 👋
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Selamat Tinggal *@${num.split("@")[0]}* Di Group *${metadata.subject}*
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-Creator : https://wa.me/2547424916666`})
+Creator : https://wa.me/263714757857`})
 } else if (anu.action == 'promote') {
 classic.sendMessage(anu.id, { image: { url: ppuser }, mentions: [num], caption: `@${num.split('@')[0]} Ciee Jadi Admin Di Group ${metadata.subject} ${metadata.desc}`  })
 } else if (anu.action == 'demote') {
@@ -174,7 +164,7 @@ let list = []
 for (let i of kon) {
 list.push({
 displayName: await classic.getName(i + '@s.whatsapp.net'),
-vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await classic.getName(i + '@s.whatsapp.net')}\nFN:${await classic.getName(i + '@s.whatsapp.net')}\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Ponsel\nitem2.EMAIL;type=INTERNET:samuelcircute@gmail.com\nitem2.X-ABLabel:Email\nitem3.https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk\nitem3.X-ABLabel:Instagram\nitem4.ADR:;;Indonesia;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`})}
+vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await classic.getName(i + '@s.whatsapp.net')}\nFN:${await classic.getName(i + '@s.whatsapp.net')}\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Ponsel\nitem2.EMAIL;type=INTERNET:malvink003@gmail.com\nitem2.X-ABLabel:Email\nitem3.https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk\nitem3.X-ABLabel:Instagram\nitem4.ADR:;;Indonesia;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`})}
 //=================================================//
 classic.sendMessage(jid, { contacts: { displayName: `${list.length} Kontak`, contacts: list }, ...opts }, { quoted })}
 //=================================================//

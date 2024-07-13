@@ -1,6 +1,6 @@
 /*
 
-› Create By King Sam
+› Create By Malvin King 🤴 
 › Button by Tairo Makino
 
                  
@@ -253,7 +253,7 @@ const zets = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ?
  message:{"orderMessage":{"orderId":"174238614569438",
  "thumbnail":kosongjpg, //image 0kb
  "itemCount":999999999,
- "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
+ "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺`,
  "token":"AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA==" }},
  contextInfo: {"mentionedJid":m.sender.split, "forwardingScore":999,"isForwarded":true}}
  
@@ -300,8 +300,8 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
+        title : `⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺`,
+        body : `⧉⸙𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
@@ -311,8 +311,8 @@ const zetsreply = async (teks) => {
 
 const virgamreply = async (teks) => {
 	    zetsubo.sendMessage(bnnd, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⸙⫺`,
+        title : `⫹⸙𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺`,
+        body : `⧉⸙𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⸙⧉⸙⫺`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
@@ -322,8 +322,8 @@ const virgamreply = async (teks) => {
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
+        title : `⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺`,
+        body : `⧉⸙𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
@@ -403,9 +403,9 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` ★彡 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙑3 彡★ `
+` ★彡 𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3彡★ `
 ]
-let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺.....'})//Pengalih isu
+let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺.....'})//Pengalih isu
 
 for (let i = 0; i < hawemod.length; i++) {
 /*await delay(10)*/
@@ -459,7 +459,7 @@ var etc = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 viewOnceMessage: {
 message: {
   "liveLocationMessage": {
-    "degreesLatitude": "🖤⟩ ༘྅Classic Bot Territory ꧏ🤍҈ ༑",
+    "degreesLatitude": "🖤⟩ ༘྅MKB Bug Bot Territory ꧏ🤍҈ ༑",
     "degreesLongitude": "🖤⟩ ༘྅Lets Dance☆ ꧏ🤍҈ ༑",
     "caption": `🖤⟩ ༘྅Booom 😅 ☆ ꧏ🤍҈ ༑`,
     "sequenceNumber": "9",
@@ -739,8 +739,8 @@ if (budy.toLowerCase() == jawaban) {
         }
 //============= [LIST RESPONCE CHECKING END ]================
 //============= [6U9S 57@R7]================ 
-//function _0xd7f9(_0x16d94b,_0x5c1d5c){const _0x1be450=_0x1be4();return _0xd7f9=function(_0xd7f9d8,_0x25e2d8){_0xd7f9d8=_0xd7f9d8-0x72;let _0x241f51=_0x1be450[_0xd7f9d8];return _0x241f51;},_0xd7f9(_0x16d94b,_0x5c1d5c);}const _0x5621a5=_0xd7f9;function _0x1be4(){const _0x262da4=['967002pBTpWx','652905IozwPW','0@s.whatsapp.net','7574749fzeXOh','6yAfVll','747ZbJPCA','{\x22currency\x22:\x22IDR\x22,\x22total_amount\x22:{\x22value\x22:49981399788,\x22offset\x22:100},\x22reference_id\x22:\x224OON4PX3FFJ\x22,\x22type\x22:\x22physical-goods\x22,\x22order\x22:{\x22status\x22:\x22payment_requested\x22,\x22subtotal\x22:{\x22value\x22:49069994400,\x22offset\x22:100},\x22tax\x22:{\x22value\x22:490699944,\x22offset\x22:100},\x22discount\x22:{\x22value\x22:485792999999,\x22offset\x22:100},\x22shipping\x22:{\x22value\x22:48999999900,\x22offset\x22:100},\x22order_type\x22:\x22ORDER\x22,\x22items\x22:[{\x22retailer_id\x22:\x227842674605763435\x22,\x22product_id\x22:\x227842674605763435\x22,\x22name\x22:\x22̷A̷̷c̷̷k̷̷n̷̷o̷̷w̷̷l̷̷e̷̷d̷̷g̷̷e̷\x20̷C̷̷l̷a̷̷s̷̷s̷̷i̷̷c̷\x20╮⭑\x20☠️⃰͜͡؜𝐙𝕩𝐕⃟⭐️᜴\x20#\x20𝙴𝚣𝙲𝚛𝚊𝚜𝚑ཀ͜͡✅⃟╮\x22,\x22amount\x22:{\x22value\x22:9999900,\x22offset\x22:100},\x22quantity\x22:7},{\x22retailer_id\x22:\x22custom-item-f22115f9-478a-487e-92c1-8e7b4bf16de8\x22,\x22name\x22:\x22\x22,\x22amount\x22:{\x22value\x22:999999900,\x22offset\x22:100},\x22quantity\x22:49}]},\x22native_payment_methods\x22:[]}','74768vXmSTO','639570KXrTQm','1758168rJUwpE','318984bIujYS'];_0x1be4=function(){return _0x262da4;};return _0x1be4();}(function(_0x229619,_0x46b17d){const _0x39199a=_0xd7f9,_0x23facd=_0x229619();while(!![]){try{const _0xe05954=-parseInt(_0x39199a(0x74))/0x1+-parseInt(_0x39199a(0x77))/0x2*(-parseInt(_0x39199a(0x7b))/0x3)+parseInt(_0x39199a(0x76))/0x4+parseInt(_0x39199a(0x78))/0x5+-parseInt(_0x39199a(0x75))/0x6+parseInt(_0x39199a(0x7a))/0x7+parseInt(_0x39199a(0x73))/0x8*(-parseInt(_0x39199a(0x7c))/0x9);if(_0xe05954===_0x46b17d)break;else _0x23facd['push'](_0x23facd['shift']());}catch(_0x55b6b6){_0x23facd['push'](_0x23facd['shift']());}}}(_0x1be4,0x868d0));const tforce={'key':{'participant':_0x5621a5(0x79),...m['chat']?{'remoteJid':'status@broadcast'}:{}},'message':{'interactiveMessage':{'header':{'hasMediaAttachment':!![],'jpegThumbnail':fs['readFileSync']('./image/latx.png')},'nativeFlowMessage':{'buttons':[{'name':'review_and_pay','buttonParamsJson':_0x5621a5(0x72)}]}}}};
-//function _0x3f54(_0x123739,_0x3ef76c){var _0x4e2e58=_0x4e2e();return _0x3f54=function(_0x3f5438,_0x2fc7c4){_0x3f5438=_0x3f5438-0xe2;var _0x125630=_0x4e2e58[_0x3f5438];return _0x125630;},_0x3f54(_0x123739,_0x3ef76c);}(function(_0x2ea533,_0x15fea4){var _0x495b5d=_0x3f54,_0x56dc26=_0x2ea533();while(!![]){try{var _0x4111ca=-parseInt(_0x495b5d(0xe4))/0x1*(parseInt(_0x495b5d(0xe5))/0x2)+-parseInt(_0x495b5d(0xe2))/0x3*(-parseInt(_0x495b5d(0xe6))/0x4)+-parseInt(_0x495b5d(0xec))/0x5*(-parseInt(_0x495b5d(0xea))/0x6)+parseInt(_0x495b5d(0xf0))/0x7+parseInt(_0x495b5d(0xf1))/0x8*(parseInt(_0x495b5d(0xeb))/0x9)+parseInt(_0x495b5d(0xf3))/0xa*(-parseInt(_0x495b5d(0xed))/0xb)+-parseInt(_0x495b5d(0xe3))/0xc*(parseInt(_0x495b5d(0xe7))/0xd);if(_0x4111ca===_0x15fea4)break;else _0x56dc26['push'](_0x56dc26['shift']());}catch(_0x3b6e9a){_0x56dc26['push'](_0x56dc26['shift']());}}}(_0x4e2e,0xf0b54));async function tngeloc(_0x5049ba,_0x6bcd9a){var _0x1d975b=_0x3f54,_0x31d3a9=generateWAMessageFromContent(m[_0x1d975b(0xf5)],proto[_0x1d975b(0xe9)][_0x1d975b(0xef)]({'viewOnceMessage':{'message':{'liveLocationMessage':{'degreesLatitude':'p','degreesLongitude':'p','caption':_0x1d975b(0xee)+'ꦾ'[_0x1d975b(0xf2)](0xc350),'sequenceNumber':'0','jpegThumbnail':''}}}}),{'userJid':m[_0x1d975b(0xf5)],'quoted':quoted});await zetsubo[_0x1d975b(0xf4)](_0x5049ba,_0x31d3a9[_0x1d975b(0xe8)],{'messageId':_0x31d3a9['key']['id']});}function _0x4e2e(){var _0x12f7c3=['fromObject','6593895ohbkmO','5196488xZFNNM','repeat','290vNjTOX','relayMessage','chat','519QGoMcF','24nJQNAH','426346GnURXG','2CwAoTA','39412PvAYKL','26169806titUgD','message','Message','24ioPZpu','27ccSVZO','1147745pvVQkm','28457LKZcTj','✳️᜴࿆͆᷍A̷̷c̷̷k̷̷n̷̷o̷̷w̷̷l̷̷e̷̷d̷̷g̷̷e̷-C̷̷l̷a̷̷s̷̷s̷̷i̷̷c̷☠️⃰͜͡؜⭐️᜴▴A̷̷c̷̷k̷̷n̷̷o̷̷w̷̷l̷̷e̷̷d̷̷g̷̷e̷-C̷̷l̷a̷̷s̷̷s̷̷i̷̷c̷ཀ͜͡\x20✅⃟╮.xp'];_0x4e2e=function(){return _0x12f7c3;};return _0x4e2e();}
+//function _0xd7f9(_0x16d94b,_0x5c1d5c){const _0x1be450=_0x1be4();return _0xd7f9=function(_0xd7f9d8,_0x25e2d8){_0xd7f9d8=_0xd7f9d8-0x72;let _0x241f51=_0x1be450[_0xd7f9d8];return _0x241f51;},_0xd7f9(_0x16d94b,_0x5c1d5c);}const _0x5621a5=_0xd7f9;function _0x1be4(){const _0x262da4=['967002pBTpWx','652905IozwPW','0@s.whatsapp.net','7574749fzeXOh','6yAfVll','747ZbJPCA','{\x22currency\x22:\x22IDR\x22,\x22total_amount\x22:{\x22value\x22:49981399788,\x22offset\x22:100},\x22reference_id\x22:\x224OON4PX3FFJ\x22,\x22type\x22:\x22physical-goods\x22,\x22order\x22:{\x22status\x22:\x22payment_requested\x22,\x22subtotal\x22:{\x22value\x22:49069994400,\x22offset\x22:100},\x22tax\x22:{\x22value\x22:490699944,\x22offset\x22:100},\x22discount\x22:{\x22value\x22:485792999999,\x22offset\x22:100},\x22shipping\x22:{\x22value\x22:48999999900,\x22offset\x22:100},\x22order_type\x22:\x22ORDER\x22,\x22items\x22:[{\x22retailer_id\x22:\x227842674605763435\x22,\x22product_id\x22:\x227842674605763435\x22,\x22name\x22:\x22̷A̷̷c̷̷k̷̷n̷̷o̷̷w̷̷l̷̷e̷̷d̷̷g̷̷e̷\x20̷M̸͟͞K̸͟͞B̸͟͞ B̸͟͞U̸͟͞G̸͟͞\x20╮⭑\x20☠️⃰͜͡؜𝐙𝕩𝐕⃟⭐️᜴\x20#\x20𝙴𝚣𝙲𝚛𝚊𝚜𝚑ཀ͜͡✅⃟╮\x22,\x22amount\x22:{\x22value\x22:9999900,\x22offset\x22:100},\x22quantity\x22:7},{\x22retailer_id\x22:\x22custom-item-f22115f9-478a-487e-92c1-8e7b4bf16de8\x22,\x22name\x22:\x22\x22,\x22amount\x22:{\x22value\x22:999999900,\x22offset\x22:100},\x22quantity\x22:49}]},\x22native_payment_methods\x22:[]}','74768vXmSTO','639570KXrTQm','1758168rJUwpE','318984bIujYS'];_0x1be4=function(){return _0x262da4;};return _0x1be4();}(function(_0x229619,_0x46b17d){const _0x39199a=_0xd7f9,_0x23facd=_0x229619();while(!![]){try{const _0xe05954=-parseInt(_0x39199a(0x74))/0x1+-parseInt(_0x39199a(0x77))/0x2*(-parseInt(_0x39199a(0x7b))/0x3)+parseInt(_0x39199a(0x76))/0x4+parseInt(_0x39199a(0x78))/0x5+-parseInt(_0x39199a(0x75))/0x6+parseInt(_0x39199a(0x7a))/0x7+parseInt(_0x39199a(0x73))/0x8*(-parseInt(_0x39199a(0x7c))/0x9);if(_0xe05954===_0x46b17d)break;else _0x23facd['push'](_0x23facd['shift']());}catch(_0x55b6b6){_0x23facd['push'](_0x23facd['shift']());}}}(_0x1be4,0x868d0));const tforce={'key':{'participant':_0x5621a5(0x79),...m['chat']?{'remoteJid':'status@broadcast'}:{}},'message':{'interactiveMessage':{'header':{'hasMediaAttachment':!![],'jpegThumbnail':fs['readFileSync']('./image/latx.png')},'nativeFlowMessage':{'buttons':[{'name':'review_and_pay','buttonParamsJson':_0x5621a5(0x72)}]}}}};
+//function _0x3f54(_0x123739,_0x3ef76c){var _0x4e2e58=_0x4e2e();return _0x3f54=function(_0x3f5438,_0x2fc7c4){_0x3f5438=_0x3f5438-0xe2;var _0x125630=_0x4e2e58[_0x3f5438];return _0x125630;},_0x3f54(_0x123739,_0x3ef76c);}(function(_0x2ea533,_0x15fea4){var _0x495b5d=_0x3f54,_0x56dc26=_0x2ea533();while(!![]){try{var _0x4111ca=-parseInt(_0x495b5d(0xe4))/0x1*(parseInt(_0x495b5d(0xe5))/0x2)+-parseInt(_0x495b5d(0xe2))/0x3*(-parseInt(_0x495b5d(0xe6))/0x4)+-parseInt(_0x495b5d(0xec))/0x5*(-parseInt(_0x495b5d(0xea))/0x6)+parseInt(_0x495b5d(0xf0))/0x7+parseInt(_0x495b5d(0xf1))/0x8*(parseInt(_0x495b5d(0xeb))/0x9)+parseInt(_0x495b5d(0xf3))/0xa*(-parseInt(_0x495b5d(0xed))/0xb)+-parseInt(_0x495b5d(0xe3))/0xc*(parseInt(_0x495b5d(0xe7))/0xd);if(_0x4111ca===_0x15fea4)break;else _0x56dc26['push'](_0x56dc26['shift']());}catch(_0x3b6e9a){_0x56dc26['push'](_0x56dc26['shift']());}}}(_0x4e2e,0xf0b54));async function tngeloc(_0x5049ba,_0x6bcd9a){var _0x1d975b=_0x3f54,_0x31d3a9=generateWAMessageFromContent(m[_0x1d975b(0xf5)],proto[_0x1d975b(0xe9)][_0x1d975b(0xef)]({'viewOnceMessage':{'message':{'liveLocationMessage':{'degreesLatitude':'p','degreesLongitude':'p','caption':_0x1d975b(0xee)+'ꦾ'[_0x1d975b(0xf2)](0xc350),'sequenceNumber':'0','jpegThumbnail':''}}}}),{'userJid':m[_0x1d975b(0xf5)],'quoted':quoted});await zetsubo[_0x1d975b(0xf4)](_0x5049ba,_0x31d3a9[_0x1d975b(0xe8)],{'messageId':_0x31d3a9['key']['id']});}function _0x4e2e(){var _0x12f7c3=['fromObject','6593895ohbkmO','5196488xZFNNM','repeat','290vNjTOX','relayMessage','chat','519QGoMcF','24nJQNAH','426346GnURXG','2CwAoTA','39412PvAYKL','26169806titUgD','message','Message','24ioPZpu','27ccSVZO','1147745pvVQkm','28457LKZcTj','✳️᜴࿆͆᷍A̷̷c̷̷k̷̷n̷̷o̷̷w̷̷l̷̷e̷̷d̷̷g̷̷e̷-M̸͟͞K̸͟͞B̸͟͞ B̸͟͞U̸͟͞G̸͟͞☠️⃰͜͡؜⭐️᜴▴A̷̷c̷̷k̷̷n̷̷o̷̷w̷̷l̷̷e̷̷d̷̷g̷̷e̷-M̸͟͞K̸͟͞B̸͟͞ B̸͟͞U̸͟͞G̸͟͞ཀ͜͡\x20✅⃟╮.xp'];_0x4e2e=function(){return _0x12f7c3;};return _0x4e2e();}
 //bak 👇 
 /*async function kill1(target, quoted) {
  var etc = generateWAMessageFromContent(target, proto.Message.fromObject({
@@ -975,10 +975,10 @@ break
 case 'menu': case 'help': {
 let messg = `
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    \`𝘾𝙇𝘼𝙎𝙎𝙄𝘾-𝙑3 𝘽𝙐𝙂\`
+    \`𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3\`
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-   ✰ 𝐒𝐜 𝐏𝐮𝐛𝐥𝐢𝐜 ❴ 𝐵𝑌 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 ❵
-   ✰ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
+   ✰ 𝐒𝐜 𝐏𝐮𝐛𝐥𝐢𝐜 ❴ 𝐵𝑌 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ❵
+   ✰ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌
    ✰ 𝐔𝐬𝐞𝐫 : @${m.sender.split('@')[0]}
  
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -999,9 +999,9 @@ let messg = `
      ⦁𝐏𝐮𝐬𝐡𝐦𝐞𝐧𝐮
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬     
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 `
+©𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 `
 
-global.logo = "https://telegra.ph/file/6dfde4263655a81572a68.jpg"
+global.logo = "https://telegra.ph/file/e653237d4be6ae8fb6921.jpg"
 global.vidmenu = "https://telegra.ph/file/05ebf02a511b7d36bd20d.mp4"
 if(menutype === "v1") {
         let buttonMessage = {
@@ -1018,48 +1018,48 @@ if(menutype === "v1") {
 } else if (menutype === "v3") {
         await zetsubo.sendMessage(from, { text: messg })
 } else if (menutype === "v4") {
-const _0xc6d439=_0x1307;function _0x2fda(){const _0x2ca07e=['{\x22display_text\x22:\x22MENU\x20List🚀\x22,\x22id\x22:\x22','Header','{\x22display_text\x22:\x22𝐎𝐰𝐧𝐞𝐫\x20👤\x20\x22,\x22url\x22:\x22https://wa.me/+254742491666?text=Hello+King+Sam\x22,\x22merchant_url\x22:\x22https://wa.me/+254742491666?text=Hello+King+Sam\x22}','1062dsKEpD','Message','King\x20Sam','NativeFlowMessage','Footer','35990pqDktI','2EmhfAb','key','{\x22display_text\x22:\x22☄️𝐑𝐔𝐍𝐓𝐈𝐌𝐄\x20💥\x22,\x22id\x22:\x22','waUploadToServer','861WorFzg','33AfbFog','16xamGrV','Error\x20generating\x20and\x20relaying\x20message.','InteractiveMessage','error','672661zulcCS','1026lhwYhS','28406EHRQlw','relayMessage','cta_url','46936sbQqrd','{\x22display_text\x22:\x22PING\x20💤\x22,\x22id\x22:\x22','quick_reply','311775PiJuVY','Body','taira\x22}','𝕶𝖎𝖓𝖌\x20𝕾𝖆𝖒','https://telegra.ph/file/6dfde4263655a81572a68.jpg','create','remoteJid','4069EGGaAU','16565DsBSrC','{\x22display_text\x22:\x22𝐂𝐡𝐚𝐧𝐧𝐞𝐥📍\x20\x22,\x22url\x22:\x22https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e\x22,\x22merchant_url\x22:\x22https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e\x22}','ping\x22}','1447020IsfuXV','message','{\x22display_text\x22:\x22𝐇𝐨𝐰\x20𝐓𝐨\x20𝐃𝐞𝐩𝐥𝐨𝐲\x20📺\x22,\x22url\x22:\x22https://youtube.com/@king_sam_hub\x22,\x22merchant_url\x22:\x22https://youtube.com/@king_sam_hub\x22}'];_0x2fda=function(){return _0x2ca07e;};return _0x2fda();}function _0x1307(_0xf2496d,_0x155a5f){const _0x2fda95=_0x2fda();return _0x1307=function(_0x1307e5,_0x3cd16c){_0x1307e5=_0x1307e5-0x181;let _0x38deba=_0x2fda95[_0x1307e5];return _0x38deba;},_0x1307(_0xf2496d,_0x155a5f);}(function(_0x3ce95d,_0x3e6418){const _0x1fed22=_0x1307,_0x2b547b=_0x3ce95d();while(!![]){try{const _0x41d3f5=-parseInt(_0x1fed22(0x1a2))/0x1*(-parseInt(_0x1fed22(0x198))/0x2)+-parseInt(_0x1fed22(0x181))/0x3*(-parseInt(_0x1fed22(0x19e))/0x4)+parseInt(_0x1fed22(0x189))/0x5*(-parseInt(_0x1fed22(0x1a3))/0x6)+-parseInt(_0x1fed22(0x19c))/0x7*(parseInt(_0x1fed22(0x1a7))/0x8)+-parseInt(_0x1fed22(0x192))/0x9*(parseInt(_0x1fed22(0x197))/0xa)+-parseInt(_0x1fed22(0x19d))/0xb*(-parseInt(_0x1fed22(0x18c))/0xc)+parseInt(_0x1fed22(0x188))/0xd*(parseInt(_0x1fed22(0x1a4))/0xe);if(_0x41d3f5===_0x3e6418)break;else _0x2b547b['push'](_0x2b547b['shift']());}catch(_0x35211c){_0x2b547b['push'](_0x2b547b['shift']());}}}(_0x2fda,0x5ae7b));try{let msg=generateWAMessageFromContent(m[_0xc6d439(0x199)][_0xc6d439(0x187)],{'viewOnceMessage':{'message':{'messageContextInfo':{'deviceListMetadata':{},'deviceListMetadataVersion':0x2},'interactiveMessage':proto[_0xc6d439(0x193)]['InteractiveMessage'][_0xc6d439(0x186)]({'body':proto['Message'][_0xc6d439(0x1a0)][_0xc6d439(0x182)]['create']({'text':_0xc6d439(0x184)}),'footer':proto[_0xc6d439(0x193)][_0xc6d439(0x1a0)][_0xc6d439(0x196)][_0xc6d439(0x186)]({'text':_0xc6d439(0x194)}),'header':proto[_0xc6d439(0x193)][_0xc6d439(0x1a0)][_0xc6d439(0x190)][_0xc6d439(0x186)]({...await prepareWAMessageMedia({'image':{'url':_0xc6d439(0x185)}},{'upload':zetsubo[_0xc6d439(0x19b)]}),'title':'','subtitle':'Classic-v3-BUG','hasMediaAttachment':![]}),'nativeFlowMessage':proto[_0xc6d439(0x193)][_0xc6d439(0x1a0)][_0xc6d439(0x195)]['create']({'buttons':[{'name':_0xc6d439(0x1a9),'buttonParamsJson':_0xc6d439(0x18f)+prefix+_0xc6d439(0x183)},{'name':_0xc6d439(0x1a9),'buttonParamsJson':_0xc6d439(0x1a8)+prefix+_0xc6d439(0x18b)},{'name':_0xc6d439(0x1a9),'buttonParamsJson':_0xc6d439(0x19a)+prefix+'runtime\x22}'},{'name':_0xc6d439(0x1a6),'buttonParamsJson':_0xc6d439(0x18a)},{'name':'cta_url','buttonParamsJson':_0xc6d439(0x191)},{'name':_0xc6d439(0x1a6),'buttonParamsJson':_0xc6d439(0x18e)}]})})}}},{});if(!msg||!msg[_0xc6d439(0x199)]||!msg[_0xc6d439(0x199)][_0xc6d439(0x187)]||!msg['key']['id']){const errorMessage='Error:\x20Invalid\x20message\x20key.';return console[_0xc6d439(0x1a1)](errorMessage),reply(errorMessage);}await zetsubo[_0xc6d439(0x1a5)](msg[_0xc6d439(0x199)][_0xc6d439(0x187)],msg[_0xc6d439(0x18d)],{'messageId':msg[_0xc6d439(0x199)]['id']});}catch(_0xf39789){return console[_0xc6d439(0x1a1)]('Error\x20generating\x20and\x20relaying\x20message:',_0xf39789),reply(_0xc6d439(0x19f));}
+const _0xc6d439=_0x1307;function _0x2fda(){const _0x2ca07e=['{\x22display_text\x22:\x22MENU\x20List🚀\x22,\x22id\x22:\x22','Header','{\x22display_text\x22:\x22𝐎𝐰𝐧𝐞𝐫\x20👤\x20\x22,\x22url\x22:\x22https://wa.me/+263714757857?text=Hello+Malvin+King\x22,\x22merchant_url\x22:\x22https://wa.me/+263714757857?text=Hello+King+Malvin\x22}','1062dsKEpD','Message','King\x20Sam','NativeFlowMessage','Footer','35990pqDktI','2EmhfAb','key','{\x22display_text\x22:\x22☄️𝐑𝐔𝐍𝐓𝐈𝐌𝐄\x20💥\x22,\x22id\x22:\x22','waUploadToServer','861WorFzg','33AfbFog','16xamGrV','Error\x20generating\x20and\x20relaying\x20message.','InteractiveMessage','error','672661zulcCS','1026lhwYhS','28406EHRQlw','relayMessage','cta_url','46936sbQqrd','{\x22display_text\x22:\x22PING\x20💤\x22,\x22id\x22:\x22','quick_reply','311775PiJuVY','Body','taira\x22}','𝕶𝖎𝖓𝖌\x20𝕸𝖆𝖑𝖎𝖓','https://telegra.ph/file/e653237d4be6ae8fb6921.jpg','create','remoteJid','4069EGGaAU','16565DsBSrC','{\x22display_text\x22:\x22𝐂𝐡𝐚𝐧𝐧𝐞𝐥📍\x20\x22,\x22url\x22:\x22https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z\x22,\x22merchant_url\x22:\x22https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z\x22}','ping\x22}','1447020IsfuXV','message','{\x22display_text\x22:\x22𝐇𝐨𝐰\x20𝐓𝐨\x20𝐃𝐞𝐩𝐥𝐨𝐲\x20📺\x22,\x22url\x22:\x22https://youtube.com/@speedtechi\x22,\x22merchant_url\x22:\x22https://youtube.com/@speedtechi\x22}'];_0x2fda=function(){return _0x2ca07e;};return _0x2fda();}function _0x1307(_0xf2496d,_0x155a5f){const _0x2fda95=_0x2fda();return _0x1307=function(_0x1307e5,_0x3cd16c){_0x1307e5=_0x1307e5-0x181;let _0x38deba=_0x2fda95[_0x1307e5];return _0x38deba;},_0x1307(_0xf2496d,_0x155a5f);}(function(_0x3ce95d,_0x3e6418){const _0x1fed22=_0x1307,_0x2b547b=_0x3ce95d();while(!![]){try{const _0x41d3f5=-parseInt(_0x1fed22(0x1a2))/0x1*(-parseInt(_0x1fed22(0x198))/0x2)+-parseInt(_0x1fed22(0x181))/0x3*(-parseInt(_0x1fed22(0x19e))/0x4)+parseInt(_0x1fed22(0x189))/0x5*(-parseInt(_0x1fed22(0x1a3))/0x6)+-parseInt(_0x1fed22(0x19c))/0x7*(parseInt(_0x1fed22(0x1a7))/0x8)+-parseInt(_0x1fed22(0x192))/0x9*(parseInt(_0x1fed22(0x197))/0xa)+-parseInt(_0x1fed22(0x19d))/0xb*(-parseInt(_0x1fed22(0x18c))/0xc)+parseInt(_0x1fed22(0x188))/0xd*(parseInt(_0x1fed22(0x1a4))/0xe);if(_0x41d3f5===_0x3e6418)break;else _0x2b547b['push'](_0x2b547b['shift']());}catch(_0x35211c){_0x2b547b['push'](_0x2b547b['shift']());}}}(_0x2fda,0x5ae7b));try{let msg=generateWAMessageFromContent(m[_0xc6d439(0x199)][_0xc6d439(0x187)],{'viewOnceMessage':{'message':{'messageContextInfo':{'deviceListMetadata':{},'deviceListMetadataVersion':0x2},'interactiveMessage':proto[_0xc6d439(0x193)]['InteractiveMessage'][_0xc6d439(0x186)]({'body':proto['Message'][_0xc6d439(0x1a0)][_0xc6d439(0x182)]['create']({'text':_0xc6d439(0x184)}),'footer':proto[_0xc6d439(0x193)][_0xc6d439(0x1a0)][_0xc6d439(0x196)][_0xc6d439(0x186)]({'text':_0xc6d439(0x194)}),'header':proto[_0xc6d439(0x193)][_0xc6d439(0x1a0)][_0xc6d439(0x190)][_0xc6d439(0x186)]({...await prepareWAMessageMedia({'image':{'url':_0xc6d439(0x185)}},{'upload':zetsubo[_0xc6d439(0x19b)]}),'title':'','subtitle':'MKB_BUG_BOT','hasMediaAttachment':![]}),'nativeFlowMessage':proto[_0xc6d439(0x193)][_0xc6d439(0x1a0)][_0xc6d439(0x195)]['create']({'buttons':[{'name':_0xc6d439(0x1a9),'buttonParamsJson':_0xc6d439(0x18f)+prefix+_0xc6d439(0x183)},{'name':_0xc6d439(0x1a9),'buttonParamsJson':_0xc6d439(0x1a8)+prefix+_0xc6d439(0x18b)},{'name':_0xc6d439(0x1a9),'buttonParamsJson':_0xc6d439(0x19a)+prefix+'runtime\x22}'},{'name':_0xc6d439(0x1a6),'buttonParamsJson':_0xc6d439(0x18a)},{'name':'cta_url','buttonParamsJson':_0xc6d439(0x191)},{'name':_0xc6d439(0x1a6),'buttonParamsJson':_0xc6d439(0x18e)}]})})}}},{});if(!msg||!msg[_0xc6d439(0x199)]||!msg[_0xc6d439(0x199)][_0xc6d439(0x187)]||!msg['key']['id']){const errorMessage='Error:\x20Invalid\x20message\x20key.';return console[_0xc6d439(0x1a1)](errorMessage),reply(errorMessage);}await zetsubo[_0xc6d439(0x1a5)](msg[_0xc6d439(0x199)][_0xc6d439(0x187)],msg[_0xc6d439(0x18d)],{'messageId':msg[_0xc6d439(0x199)]['id']});}catch(_0xf39789){return console[_0xc6d439(0x1a1)]('Error\x20generating\x20and\x20relaying\x20message:',_0xf39789),reply(_0xc6d439(0x19f));}
 }  else return
 }
 break
 //=================================================//
 case 'taira': {
-function _0x4ffd(){const _0x1b4a2a=['49146240VFoPmD','error','131847WfzAfc','addmenu\x22}','{\x22display_text\x22:\x22Bugmenu\x20👾\x22,\x22id\x22:\x22','Footer','relayMessage','Header','downloadmenu\x22}','listmusik\x22}','{\x22display_text\x22:\x22Downloadmenu\x20🪀\x22,\x22id\x22:\x22','key','{\x22display_text\x22:\x22Addmenu\x20🕷️\x22,\x22id\x22:\x22','Error\x20generating\x20and\x20relaying\x20message.','7317540xbmeyC','{\x22display_text\x22:\x22Gamemenu\x20🥳\x22,\x22id\x22:\x22','NativeFlowMessage','753275PAKPPu','12559005cdnUNm','{\x22display_text\x22:\x22Ownermenu\x20🤖\x22,\x22id\x22:\x22','1028HrNCjE','𝕶𝖎𝖓𝖌\x20𝕾𝖆𝖒\x20||\x20ᴸᴼᴿᴰᴛᴀɪʀᴀ','ownermenu\x22}','funmenu\x22}','quick_reply','{\x22display_text\x22:\x22GROUPMENU\x20🫴\x22,\x22id\x22:\x22','2896RGVwod','message','remoteJid','68wBpEMe','Message','create','Error\x20generating\x20and\x20relaying\x20message:','groupmenu\x22}','Body','https://telegra.ph/file/6dfde4263655a81572a68.jpg','{\x22display_text\x22:\x22Funmenu\x20💫\x22,\x22id\x22:\x22','2066JTiilv','36YOtgAq','InteractiveMessage','23527BBLogj','Error:\x20Invalid\x20message\x20key.'];_0x4ffd=function(){return _0x1b4a2a;};return _0x4ffd();}const _0x3f139f=_0xcddc;function _0xcddc(_0x48f8e4,_0x3b94ab){const _0x4ffdb7=_0x4ffd();return _0xcddc=function(_0xcddcc2,_0x2798bc){_0xcddcc2=_0xcddcc2-0x155;let _0x2826c1=_0x4ffdb7[_0xcddcc2];return _0x2826c1;},_0xcddc(_0x48f8e4,_0x3b94ab);}(function(_0x17753b,_0x4c6cc9){const _0x1df333=_0xcddc,_0xde6f3=_0x17753b();while(!![]){try{const _0x5bc1ac=parseInt(_0x1df333(0x169))/0x1*(-parseInt(_0x1df333(0x17a))/0x2)+-parseInt(_0x1df333(0x157))/0x3*(parseInt(_0x1df333(0x172))/0x4)+parseInt(_0x1df333(0x166))/0x5*(-parseInt(_0x1df333(0x17b))/0x6)+parseInt(_0x1df333(0x17d))/0x7*(parseInt(_0x1df333(0x16f))/0x8)+-parseInt(_0x1df333(0x167))/0x9+-parseInt(_0x1df333(0x163))/0xa+parseInt(_0x1df333(0x155))/0xb;if(_0x5bc1ac===_0x4c6cc9)break;else _0xde6f3['push'](_0xde6f3['shift']());}catch(_0x4c2e5b){_0xde6f3['push'](_0xde6f3['shift']());}}}(_0x4ffd,0xce230));try{let msg=generateWAMessageFromContent(m[_0x3f139f(0x160)]['remoteJid'],{'viewOnceMessage':{'message':{'messageContextInfo':{'deviceListMetadata':{},'deviceListMetadataVersion':0x2},'interactiveMessage':proto['Message']['InteractiveMessage']['create']({'body':proto[_0x3f139f(0x173)][_0x3f139f(0x17c)][_0x3f139f(0x177)][_0x3f139f(0x174)]({'text':'Click\x20Me\x20🚀'}),'footer':proto[_0x3f139f(0x173)][_0x3f139f(0x17c)][_0x3f139f(0x15a)][_0x3f139f(0x174)]({'text':_0x3f139f(0x16a)}),'header':proto[_0x3f139f(0x173)][_0x3f139f(0x17c)][_0x3f139f(0x15c)][_0x3f139f(0x174)]({...await prepareWAMessageMedia({'image':{'url':_0x3f139f(0x178)}},{'upload':zetsubo['waUploadToServer']}),'title':'','subtitle':'Classic-v3-BUG','hasMediaAttachment':![]}),'nativeFlowMessage':proto[_0x3f139f(0x173)][_0x3f139f(0x17c)][_0x3f139f(0x165)][_0x3f139f(0x174)]({'buttons':[{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x168)+prefix+_0x3f139f(0x16b)},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x159)+prefix+'bugmenu\x22}'},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x16e)+prefix+_0x3f139f(0x176)},{'name':'quick_reply','buttonParamsJson':'{\x22display_text\x22:\x22RANDOMMENU\x20🙋\x22,\x22id\x22:\x22'+prefix+'randommenu\x22}'},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x164)+prefix+'gamemenu\x22}'},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x15f)+prefix+_0x3f139f(0x15d)},{'name':_0x3f139f(0x16d),'buttonParamsJson':'{\x22display_text\x22:\x22Listmusik\x20🎉\x22,\x22id\x22:\x22'+prefix+_0x3f139f(0x15e)},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x179)+prefix+_0x3f139f(0x16c)},{'name':'quick_reply','buttonParamsJson':'{\x22display_text\x22:\x22Pushmenu\x20👁️\x22,\x22id\x22:\x22'+prefix+'pushmenu\x22}'},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x161)+prefix+_0x3f139f(0x158)}]})})}}},{});if(!msg||!msg[_0x3f139f(0x160)]||!msg[_0x3f139f(0x160)][_0x3f139f(0x171)]||!msg[_0x3f139f(0x160)]['id']){const errorMessage=_0x3f139f(0x17e);return console[_0x3f139f(0x156)](errorMessage),reply(errorMessage);}await zetsubo[_0x3f139f(0x15b)](msg[_0x3f139f(0x160)][_0x3f139f(0x171)],msg[_0x3f139f(0x170)],{'messageId':msg[_0x3f139f(0x160)]['id']});}catch(_0x3e0ad4){return console[_0x3f139f(0x156)](_0x3f139f(0x175),_0x3e0ad4),reply(_0x3f139f(0x162));} 
+function _0x4ffd(){const _0x1b4a2a=['49146240VFoPmD','error','131847WfzAfc','addmenu\x22}','{\x22display_text\x22:\x22Bugmenu\x20👾\x22,\x22id\x22:\x22','Footer','relayMessage','Header','downloadmenu\x22}','listmusik\x22}','{\x22display_text\x22:\x22Downloadmenu\x20🪀\x22,\x22id\x22:\x22','key','{\x22display_text\x22:\x22Addmenu\x20🕷️\x22,\x22id\x22:\x22','Error\x20generating\x20and\x20relaying\x20message.','7317540xbmeyC','{\x22display_text\x22:\x22Gamemenu\x20🥳\x22,\x22id\x22:\x22','NativeFlowMessage','753275PAKPPu','12559005cdnUNm','{\x22display_text\x22:\x22Ownermenu\x20🤖\x22,\x22id\x22:\x22','1028HrNCjE','𝕶𝖎𝖓𝖌\x20𝕸𝖆𝖑𝖎𝖓\x20||\x20ᴸᴼᴿᴰᴛᴀɪʀᴀ','ownermenu\x22}','funmenu\x22}','quick_reply','{\x22display_text\x22:\x22GROUPMENU\x20🫴\x22,\x22id\x22:\x22','2896RGVwod','message','remoteJid','68wBpEMe','Message','create','Error\x20generating\x20and\x20relaying\x20message:','groupmenu\x22}','Body','https://telegra.ph/file/e653237d4be6ae8fb6921.jpg','{\x22display_text\x22:\x22Funmenu\x20💫\x22,\x22id\x22:\x22','2066JTiilv','36YOtgAq','InteractiveMessage','23527BBLogj','Error:\x20Invalid\x20message\x20key.'];_0x4ffd=function(){return _0x1b4a2a;};return _0x4ffd();}const _0x3f139f=_0xcddc;function _0xcddc(_0x48f8e4,_0x3b94ab){const _0x4ffdb7=_0x4ffd();return _0xcddc=function(_0xcddcc2,_0x2798bc){_0xcddcc2=_0xcddcc2-0x155;let _0x2826c1=_0x4ffdb7[_0xcddcc2];return _0x2826c1;},_0xcddc(_0x48f8e4,_0x3b94ab);}(function(_0x17753b,_0x4c6cc9){const _0x1df333=_0xcddc,_0xde6f3=_0x17753b();while(!![]){try{const _0x5bc1ac=parseInt(_0x1df333(0x169))/0x1*(-parseInt(_0x1df333(0x17a))/0x2)+-parseInt(_0x1df333(0x157))/0x3*(parseInt(_0x1df333(0x172))/0x4)+parseInt(_0x1df333(0x166))/0x5*(-parseInt(_0x1df333(0x17b))/0x6)+parseInt(_0x1df333(0x17d))/0x7*(parseInt(_0x1df333(0x16f))/0x8)+-parseInt(_0x1df333(0x167))/0x9+-parseInt(_0x1df333(0x163))/0xa+parseInt(_0x1df333(0x155))/0xb;if(_0x5bc1ac===_0x4c6cc9)break;else _0xde6f3['push'](_0xde6f3['shift']());}catch(_0x4c2e5b){_0xde6f3['push'](_0xde6f3['shift']());}}}(_0x4ffd,0xce230));try{let msg=generateWAMessageFromContent(m[_0x3f139f(0x160)]['remoteJid'],{'viewOnceMessage':{'message':{'messageContextInfo':{'deviceListMetadata':{},'deviceListMetadataVersion':0x2},'interactiveMessage':proto['Message']['InteractiveMessage']['create']({'body':proto[_0x3f139f(0x173)][_0x3f139f(0x17c)][_0x3f139f(0x177)][_0x3f139f(0x174)]({'text':'Click\x20Me\x20🚀'}),'footer':proto[_0x3f139f(0x173)][_0x3f139f(0x17c)][_0x3f139f(0x15a)][_0x3f139f(0x174)]({'text':_0x3f139f(0x16a)}),'header':proto[_0x3f139f(0x173)][_0x3f139f(0x17c)][_0x3f139f(0x15c)][_0x3f139f(0x174)]({...await prepareWAMessageMedia({'image':{'url':_0x3f139f(0x178)}},{'upload':zetsubo['waUploadToServer']}),'title':'','subtitle':'MKB_BUG_BOT','hasMediaAttachment':![]}),'nativeFlowMessage':proto[_0x3f139f(0x173)][_0x3f139f(0x17c)][_0x3f139f(0x165)][_0x3f139f(0x174)]({'buttons':[{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x168)+prefix+_0x3f139f(0x16b)},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x159)+prefix+'bugmenu\x22}'},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x16e)+prefix+_0x3f139f(0x176)},{'name':'quick_reply','buttonParamsJson':'{\x22display_text\x22:\x22RANDOMMENU\x20🙋\x22,\x22id\x22:\x22'+prefix+'randommenu\x22}'},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x164)+prefix+'gamemenu\x22}'},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x15f)+prefix+_0x3f139f(0x15d)},{'name':_0x3f139f(0x16d),'buttonParamsJson':'{\x22display_text\x22:\x22Listmusik\x20🎉\x22,\x22id\x22:\x22'+prefix+_0x3f139f(0x15e)},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x179)+prefix+_0x3f139f(0x16c)},{'name':'quick_reply','buttonParamsJson':'{\x22display_text\x22:\x22Pushmenu\x20👁️\x22,\x22id\x22:\x22'+prefix+'pushmenu\x22}'},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x161)+prefix+_0x3f139f(0x158)}]})})}}},{});if(!msg||!msg[_0x3f139f(0x160)]||!msg[_0x3f139f(0x160)][_0x3f139f(0x171)]||!msg[_0x3f139f(0x160)]['id']){const errorMessage=_0x3f139f(0x17e);return console[_0x3f139f(0x156)](errorMessage),reply(errorMessage);}await zetsubo[_0x3f139f(0x15b)](msg[_0x3f139f(0x160)][_0x3f139f(0x171)],msg[_0x3f139f(0x170)],{'messageId':msg[_0x3f139f(0x160)]['id']});}catch(_0x3e0ad4){return console[_0x3f139f(0x156)](_0x3f139f(0x175),_0x3e0ad4),reply(_0x3f139f(0x162));} 
 }
 break
 //=================================================//
 case 'bugmenu': {
 	
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3* 
                             
   
   🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
   🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
 ┏━━━━━━━━━━━━━━━━━━
-┃➢ 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐫𝐚𝐩𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐏𝐨𝐥𝐢𝐜𝐞-𝐂𝐚𝐬𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐜𝐥-𝐤𝐢𝐥𝐥(254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐜-𝐤𝐢𝐥𝐥 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐛𝐮𝐫𝐠𝐚𝐢𝐧 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃➢ 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐫𝐚𝐩𝐞 (263𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃➢ 𝐏𝐨𝐥𝐢𝐜𝐞-𝐂𝐚𝐬𝐞 (263𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃➢ 𝐜𝐥-𝐤𝐢𝐥𝐥(263𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃➢ 𝐜-𝐤𝐢𝐥𝐥 (263𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃➢ 𝐛𝐮𝐫𝐠𝐚𝐢𝐧 (263𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
 ┃➢ 𝐒𝐥𝐞𝐞𝐩𝐲 (𝐝𝐢𝐫𝐞𝐜𝐭 𝐛𝐮𝐠 )
 ┃➢ 𝐞𝐯𝐢𝐥-𝐬𝐚
 ┃➢ 𝐛𝐮𝐠𝐥𝐢𝐬𝐭
 ┗━━━━━━━━━━━━━━━━━━
 
-©𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 
+©𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 
  
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfom:{externalAdReply:{
-  title: 'ᚙᚘ ⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 ⧉⸙⫺   - 𝐊ᚗ𝐈𝐍ᚗ𝐆 ᚘᚙ',
-  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
+  title: 'ᚙᚘ ⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 ⧉⸙⫺   - 𝐊ᚗ𝐈𝐍ᚗ𝐆 ᚘᚙ',
+  body: 'ᚙᚘ ⫹⧉⸙𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⸙⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1067,8 +1067,8 @@ zetsubo.sendMessage(from, hiks, {quoted: zets })}
 break
 case 'pushmenu': {
 
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝗠𝗞𝗕 𝗕𝗨𝗚 𝐕3* ▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1092,7 +1092,7 @@ case 'pushmenu': {
 ┃➢ 𝐩𝐮𝐛𝐥𝐢𝐜
 ┃➢ 𝐬𝐞𝐥𝐟
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ➥➥➥➥❴⧠ 𝗕𝗬 𝗦𝗔𝗠 ⧠❵➥➥➥➥
+┃ ➥➥➥➥❴⧠ 𝗕𝗬 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ⧠❵➥➥➥➥
 ┣━━━━━━━━━━━━━━━━━━━━
 ┣━━━━━━━━━❴ 𝗣𝘂𝘀𝗵 ❵━━━━━━━
 ┃
@@ -1103,19 +1103,19 @@ case 'pushmenu': {
 ┃➟ 𝐩𝐮𝐬𝐡𝐤𝐨𝐧𝐭𝐚𝐤 𝐭𝐞𝐤𝐬 (𝐬𝐞𝐧𝐭 𝐭𝐨 𝐆𝐂)
 ┃
 ┃┗━━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❴ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❵➥➥
+┃ ➥➥❴ *𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 ®2024* ❵➥➥
 ┗━━━━━━━━━━━━━━━━━━━━━  
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: '⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
+  title: '⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺',
+  body: '⫹⧉⸙𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⸙⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1124,8 +1124,8 @@ break
 //=================================================//
 case 'groupmenu': {
 
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝗠𝗞𝗕 𝗕𝗨𝗚 𝗕𝗢𝗧* ▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1150,7 +1150,7 @@ case 'groupmenu': {
 ┃➢ 𝐬𝐞𝐥𝐟
 ┃┗━━━━━━━━━━━━━━━━━
 ┣━━━━━━━❴ GROUPMENU ❵━━━━━
-┃  ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃  ➥➥❰ *𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 ®2024* ❱➥➥
 ┣━━━━━━━━━━━━━━━━━━
 ┃➟ 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖔𝖓 / 𝖔𝖋𝖋
 ┃➟ 𝖆𝖓𝖙𝖎𝖑𝖎𝖓𝖐 𝖔𝖓 / 𝖔𝖋𝖋
@@ -1185,19 +1185,19 @@ case 'groupmenu': {
 ┃➟➟𝖙𝖔𝖕𝖙𝖛
 ┃➟ 𝖇𝖚𝖆𝖙𝖘𝖜
 ┣━━━━━━━━━━━━━━━━━━━━
-┃  ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃  ➥➥❰ *𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻',
-  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⿻༔༐༑', 
+  title: '𒑰⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺⿻',
+  body: '༐༑⿻⧉⸙𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⸙⧉⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1206,8 +1206,8 @@ break
 //=================================================//
 case 'downloadmenu': {
 
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3* ▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1247,19 +1247,19 @@ case 'downloadmenu': {
 ┃➟ 𝐏𝐥𝐚𝐲 
 ┃➟ 𝐠𝐞𝐭𝐯𝐢𝐝𝐞𝐨 (𝐫𝐞𝐩𝐥𝐲 𝐡𝐚𝐬𝐢𝐥)
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃  ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃  ➥➥❰ *𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⿻༔༐༑', 
+  title: '𒑰⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺',
+  body: '༐༑⿻⧉⸙𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⸙⧉⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1268,7 +1268,7 @@ break
 //=================================================//
 case 'randommenu': {
 
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━
+                            ewe = `┏━━━▓ *𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3* ▓━━━━━━━
 ┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
@@ -1342,19 +1342,19 @@ case 'randommenu': {
 ┃➟ 𝒄𝒆𝒓𝒊𝒕𝒂𝒉𝒐𝒓𝒐𝒓
 ┃➟ 𝒄𝒖𝒂𝒄𝒂
 ┃┗━━━━━━━━━━━━━━━━━━
-┃ ➥➥➥❰*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024*❱➥➥➥
+┃ ➥➥➥❰*𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 ®2024*❱➥➥➥
 ┗━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰᚜ 𝐇𝐚𝐢𝐥 𝐭𝐨 𝐊𝐢𝐧𝐠 𝐒𝐚𝐦 ᚛⿻',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺༔༐༑', 
+  title: '𒑰᚜ 𝐇𝐚𝐢𝐥 𝐭𝐨 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ᚛⿻',
+  body: '༐༑⿻⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1363,8 +1363,8 @@ break
 //=================================================//
 case 'Islammenu': {
 
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3* ▓━━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1398,18 +1398,18 @@ case 'Islammenu': {
 ┃➟ 𝐚𝐥𝐪𝐮𝐫𝐚𝐧
 ┃➟ 𝐥𝐢𝐬𝐭𝐬𝐮𝐫𝐚𝐡
 ┃┗━━━━━━━━━━━━━━━━━━━━
-┃  ➥➥➥❰*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024*❱➥➥➥
+┃  ➥➥➥❰*𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 ®2024*❱➥➥➥
 ┗━━━━━━━━━━━━━━━━━━━━━`
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺', 
+  title: '𒑰⧉⸙𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⸙⧉',
+  body: '⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1418,8 +1418,8 @@ break
 //=================================================//
 case 'textmaker': {
 
-                            ewe = `┏━━━❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3* ❱━━━━━━ 
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━❰ *𝗠𝗞𝗕 𝗕𝗨𝗚 𝗕𝗢𝗧 𝐕3* ❱━━━━━━ 
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1480,19 +1480,19 @@ case 'textmaker': {
 ┃➟ 𝒉𝒐𝒓𝒓𝒐𝒓𝒃𝒍𝒐𝒐𝒅
 ┃➟ 𝒕𝒉𝒖𝒏𝒅𝒆𝒓
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ *𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻༔༐༑', 
+  title: '𒑰⧉𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⧉',
+  body: '༐༑⿻⫹⸙⧉M̸͟͞K̸͟͞B̸͟͞ B̸͟͞U̸͟͞G̸͟͞⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1501,7 +1501,7 @@ break
 //=================================================//
 case 'listmusik': {
 
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━
+                            ewe = `┏━━━▓ *𝗠𝗞𝗕 𝗕𝗨𝗚 𝗕𝗢𝗧 𝐕3* ▓━━━━━
 ┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
@@ -1692,19 +1692,19 @@ case 'listmusik': {
 ┃➟ 𝐬𝐨𝐮𝐧𝐝160
 ┃➟ 𝐬𝐨𝐮𝐧𝐝161
 ┃┗━━━━━━━━━━━━━━━━━
-┃   ➥❰*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024*❱➥
+┃   ➥❰*𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 ®2024*❱➥
 ┗━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻༔༐༑', 
+  title: '𒑰⧉⸙𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⧉',
+  body: '༐༑⿻⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1713,8 +1713,8 @@ break
 //=================================================//
 case 'addmenu': {
 
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝗠𝗞𝗕 𝗕𝗨𝗚 𝗕𝗢𝗧 𝐕3* ▓━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1738,7 +1738,7 @@ case 'addmenu': {
 ┃➢ 𝐩𝐮𝐛𝐥𝐢𝐜
 ┃➢ 𝐬𝐞𝐥𝐟
 ┃┗━━━━━━━━━━━━━━━━━━
-┃➥➥➥➥➥⧠ 𝗕𝗬 𝗦𝗔𝗠 ⧠➥➥➥➥➥
+┃➥➥➥➥➥⧠ 𝗕𝗬 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ⧠➥➥➥➥➥
 ┃━━━━━━━━━━━━━━━━━━━
 ┃
 ┃┏━━━━━ 𝑨𝑫𝑫 𝑴𝑬𝑵𝑼 ━━━━━
@@ -1770,18 +1770,18 @@ case 'addmenu': {
 ┃➟ 𝒅𝒆𝒍𝒎𝒔𝒈
 ┃➟ 𝒈𝒆𝒕𝒎𝒔𝒈
 ┃┗━━━━━━━━━━━━━━━━━━━━
-┃  ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃  ➥➥❰ *𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',showAdAttribution: true,
+  title: '𒑰⧉⸙𝐋𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⸙⧉',
+  body: '༐༑⿻⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺',showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1790,8 +1790,8 @@ break
 //=================================================//
 case 'cucimata': {
 
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝗠𝗞𝗕 𝗕𝗨𝗚 𝗕𝗢𝗧 𝐕3* ▓━━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1868,19 +1868,19 @@ case 'cucimata': {
 ┃➟ 𝐡𝐢𝐠𝐡𝐟𝐢𝐯𝐞
 ┃➟ 𝐡𝐚𝐧𝐝𝐡𝐨𝐥𝐝
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ *𝗠𝗞𝗕 𝗕𝗨𝗚 𝗕𝗢𝗧 𝐕3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂⸙⫺', 
+  title: '𒑰⧉⸙𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⸙⧉',
+  body: '༐⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1889,8 +1889,8 @@ break
 //=================================================//
 case 'beritamenu': {
 await inireact()
-                            ewe = `┏━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━▓ *𝗠𝗞𝗕 𝗕𝗨𝗚 𝗕𝗢𝗧 𝐕3* ▓━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1936,19 +1936,19 @@ await inireact()
 ┃➟ 𝒎𝒆𝒓𝒅𝒆𝒌𝒂
 ┃➟ 𝒋𝒂𝒍𝒂𝒏𝒕𝒊𝒌𝒖𝒔-𝒎𝒆𝒎𝒆
 ┃┗━━━━━━━━━━━━━━━━━━
-┃ ➥➥➥❰*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024*❱➥➥➥
+┃ ➥➥➥❰*𝗠𝗞𝗕 𝗕𝗨𝗚 𝗕𝗢𝗧 𝐕3 ®2024*❱➥➥➥
 ┗━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⸙⫺', 
+  title: '⧉⸙𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⸙⧉',
+  body: '⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1957,8 +1957,8 @@ break
 //=================================================//
 case 'asupan': {
 
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝗠𝗞𝗕 𝗕𝗨𝗚 𝗕𝗢𝗧 𝐕3* ▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -2007,19 +2007,19 @@ case 'asupan': {
 ┃➟ asupan18
 ┃➟ asupan20
 ┃┗━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ *𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺', 
+  title: '⧉⸙𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍⸙⧉',
+  body: '⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -2281,7 +2281,7 @@ break
 case 'addprem':
 await inireact()
 if (!isCreator) return reply('*Premium Command*')
-if (!args[0]) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 258869103969`)
+if (!args[0]) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 263714757857`)
 bnnd = text.split("|")[0].replace(/[^0-9]/g, '')
 let ceknye = await zetsubo.onWhatsApp(bnnd + `@s.whatsapp.net`)
 if (ceknye.length == 0) return reply(`Masukkan Nomor Yang Valid Dan Terdaftar Di WhatsApp!!!`)
@@ -2293,7 +2293,7 @@ break
 case 'delprem':
 await inireact()
 if (!isCreator) return reply('*Premium Command*')
-if (!args[0]) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 258869103969`)
+if (!args[0]) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 263780166288`)
 yaki = text.split("|")[0].replace(/[^0-9]/g, '')
 unp = owner.indexOf(yaki)
 owner.splice(unp, 1)
@@ -2314,7 +2314,7 @@ break
 //=================================================//
 case 'pengguna':  {
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')
-if (!args[0]) return reply(`*Contoh : ${command} add 258869103969*`)
+if (!args[0]) return reply(`*Contoh : ${command} add 263714757857*`)
 if (args[1]) {
 orgnye = args[1] + "@s.whatsapp.net"
 } else if (m.quoted) {
@@ -2358,12 +2358,12 @@ case 'evil-sam':
 case 'call1': {
 inireact()
 if (!isCreator) return reply(mess.premium)
-if (!text) return reply(`Example: ${prefix + command} 25472823838,1`);
+if (!text) return reply(`Example: ${prefix + command} 263780166288,1`);
 sendto = q.split(",")[0]+"@s.whatsapp.net"
 jumlah = q.split(",")[1]
-hmbug(sendto, `CLASSIC BOT 🤧💀 ...~${ios1}`)
+hmbug(sendto, `MKB BUG BOT 🤧💀 ...~${ios1}`)
 await sleep(5000)
-hmbug(sendto, `CLASSIC BOT 💀${ios1}`)
+hmbug(sendto, `MKB BUG BOT 💀${ios1}`)
 await sleep(5000)
 reply(mess.bugrespon + `\n❗Detail > \n😎 Target Number: ${sendto} \nBug Command: ${command}\n😋 Quantity: ${jumlah}`)
 }
@@ -2381,7 +2381,7 @@ hmbug(sendto, jumlah,  `I even Dont know 💀 `)
 await sleep(1000)
 await ryobug(sendto, jumlah,  `💔'҉Why You messed with❤️‍🩹`)
 await sleep(1000)
-await ryobug(sendto, jumlah,  `Classic Bot 🫂`)
+await ryobug(sendto, jumlah,  `Mkb Bot 🫂`)
 await sleep(1000)
 hmbug(sendto, jumlah,  `Go to hell 😕 `)
 await sleep(1000)
@@ -2426,9 +2426,9 @@ for (let i = 0; i < 10; i++) {
 }];
 
 let listMessage = {
-    text: `💣𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 💀`,
+    text: `💣𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 💀`,
     footer: `🍻°⃟૰𝐤𝐢𝐥𝐥𝐞𝐫 -!ˢᵃᵐˢ🍺ꢵ`,
-    buttonText: `Classic - V3`,
+    butto3`,
     sections
 };
 
@@ -2637,7 +2637,7 @@ await inireact()
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')
 if (!m.isGroup) return
 await inireact()
-let teks = `══᪣⧠ *࿉ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐕-3࿉* ⧠᪣══
+let teks = `══᪣⧠ *࿉ 𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3࿉* ⧠᪣══
  ➲ *REPORT : ${q ? q : '𝐓𝐀𝐆𝐆𝐄𝐃'}*\n\n`
 for (let mem of participants) {
 teks += `🩸 @${mem.id.split('@')[0]}\n`
@@ -2753,7 +2753,7 @@ message: {
 }), { userJid: m.chat, quoted: force })
 await zetsubo.relayMessage(m.chat, etc.message, { messageId: etc.key.id })
 }
-await reply('💊𝗧𝗮𝗿𝗴𝗲𝘁 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗲𝗱 𝗯𝘆 Classic 📡')
+await reply('💊𝗧𝗮𝗿𝗴𝗲𝘁 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗲𝗱 𝗯𝘆 𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 📡')
 }
 break
 //=================================================
@@ -2781,14 +2781,14 @@ showAdAttribution: false,
 renderLargerThumbnail: false,
 jpegThumbnail: ``,
 title: `𝕾𝖔𝖗𝖗𝖞 𝕭𝖗𝖔 𝕴 𝖌𝖔𝖙 𝕹𝖔 𝖒𝖊𝖗𝖈𝖞 𝖔𝖓 𝖞𝖔𝖚 🥵🙃`,
-body: `⁗ Classic 𝕰𝖑𝖎𝖒𝖎𝖓𝖆𝖙𝖊𝖘 📡`,
+body: `⁗ MKB 𝕰𝖑𝖎𝖒𝖎𝖓𝖆𝖙𝖊𝖘 📡`,
 previewType: "VIDEO",
-sourceUrl: `Classic 𝕾𝖚𝖈𝖐𝖘`,
+sourceUrl: `MKB 𝕾𝖚𝖈𝖐𝖘`,
 mediaType: 1,
 mediaUrl: `${global.url}`
 }
 },
-text: '📡𝗬𝗼𝘂 𝗖𝗮𝗻 𝗖𝗼𝗽𝘆 𝗕𝘂𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻𝘁 𝗯𝗲 𝗠𝗲 🙃 𝗖𝗮𝗹𝗹 𝗠𝗲 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 🩸'
+text: '📡𝗬𝗼𝘂 𝗖𝗮𝗻 𝗖𝗼𝗽𝘆 𝗕𝘂𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻𝘁 𝗯𝗲 𝗠𝗲 🙃 𝗖𝗮𝗹𝗹 𝗠𝗲 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 🩸'
 }, {
 quoted: m
 })
@@ -2919,7 +2919,7 @@ zetsubo.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption:
 break
 //=================================================
 case 'runtime':
-                let pinga = `𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐁𝐨𝐭 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
+                let pinga = `𝗠𝗞𝗕 𝐁𝐨𝐭 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
                 zetsubo.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
@@ -2928,7 +2928,7 @@ case 'runtime':
                             title: botname,
                             body: ownername,
                             thumbnailUrl: 'zetszet/cheemspic.jpg',
-                            sourceUrl: 'https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV',
+                            sourceUrl: 'https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z',
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -3268,9 +3268,9 @@ await inireact()
  zetsubogans = await getBuffer(`https://github.com/DGXeon/Tiktokmusic-API/raw/master/tiktokmusic/${command}.mp3`)
 await zetsubo.sendMessage(from, { audio: zetsubogans, mimetype: 'audio/mp4', ptt: true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-title: `KING SAM`,
-sourceUrl: `https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV`, 
+MediaUrl:`https://telegra.ph/file/e653237d4be6ae8fb6921.jpg`,
+title: `𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌`,
+sourceUrl: `https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z`, 
 }
 }})
 break
@@ -3288,8 +3288,8 @@ break
 case 'sc': case 'script': case 'repo':
 await inireact()
 
- zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/b103691007c8ce5ee8a94.jpg` }, caption: 
-`╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ➨ 𝑯𝒊 *${pushname}* \n\n ➨ 𝑰 𝒂𝒎 𝑪𝑳𝑨𝑺𝑺𝑰𝑪_𝑨𝑰 𝑩𝑶𝑻 ☣.\n\n ➨ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/Samue-l1/Classic-v3-BUG ❵\n\n ➨ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ➨ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➻ 𝐊𝐈𝐍𝐆 𝐒𝐀𝐌 ✇\n\n╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
+ zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/e653237d4be6ae8fb6921.jpg` }, caption: 
+`╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ➨ 𝑯𝒊 *${pushname}* \n\n ➨ 𝑰 𝒂𝒎 𝐌𝐊𝐁_𝑨𝑰 𝑩𝑶𝑻 ☣.\n\n ➨ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/malvinking/MKB_BUG_BOT ❵\n\n ➨ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ➨ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➻ 𝐋𝐎𝐑𝐃 𝐌𝐀𝐋𝐕𝐈𝐍  ✇\n\n╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
 
    break;
 //=================================================
@@ -3320,10 +3320,10 @@ case 'broadcast':
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐁𝐎𝐓',
+                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝗠𝗞𝗕 𝗕𝗨𝗚 𝗕𝗢𝗧',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/d2a1d3bbfabf34fabe666.jpg',
-                                sourceUrl: 'https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV',
+                                thumbnailUrl: 'https://telegra.ph/file/e653237d4be6ae8fb6921.jpg',
+                                sourceUrl: 'https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -3349,10 +3349,10 @@ const audiovn = "./Classic.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
-          body: "https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV",
-          thumbnailUrl: "https://telegra.ph/file/f6d66a60454e31e0a2c0d.jpg",
-          sourceUrl: "https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV",
+          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝗠𝗞𝗕 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
+          body: "https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z",
+          thumbnailUrl: "https://telegra.ph/file/e653237d4be6ae8fb6921.jpg",
+          sourceUrl: "https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z",
           mediaType: 1,
           renderLargerThumbnail: true
           }}
@@ -3966,7 +3966,7 @@ await inireact()
  pp2 = 'https://tinyurl.com/yx93l6da'; 
  } 
   if (!m.quoted) throw `Tag a user!`; 
- bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐀𝐢`; 
+ bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝗠𝗞𝗕-𝐀𝐢`; 
  zetsubo.sendMessage(m.chat, { image: { url: pp2}, caption: bar, fileLength: "999999999999"}, { quoted: m}); 
  } 
  break;
@@ -4497,7 +4497,7 @@ case 'play':
                         document: fs.readFileSync(`./${randomName}`),
                         mimetype: "audio/mpeg",
                         fileName: titleYt + ".mp3",
-			caption: "💢 𝐂𝐋𝐀𝐒𝐒𝐈𝐂_𝐁𝐎𝐓 𝐁𝐘 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 🩸 ",    
+			caption: "💢 𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3 𝐁𝐘 𝕸𝖆𝖑𝖎𝖓 𝕶𝖎𝖓𝖌 🩸 ",    
                     }, {
                         quoted: m 
                     }
@@ -5322,7 +5322,7 @@ if (isBan) return reply('*Youre are banned with the owner. You dont have to act 
  await sleep(60000)
  if (tebaklagu.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption:`Waktu Habis\nJawaban:  ${tebaklagu[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lagu`},{quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/e653237d4be6ae8fb6921.jpg' }, caption:`Waktu Habis\nJawaban:  ${tebaklagu[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lagu`},{quoted:m}) 
  delete tebaklagu[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'gambar') {
@@ -5335,7 +5335,7 @@ if (isBan) return reply('*Youre are banned with the owner. You dont have to act 
  await sleep(60000)
  if (tebakgambar.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebakgambar[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak gambar`}, {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/e653237d4be6ae8fb6921.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebakgambar[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak gambar`}, {quoted:m}) 
  delete tebakgambar[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'kata') {
@@ -5348,7 +5348,7 @@ if (isBan) return reply('*Youre are banned with the owner. You dont have to act 
  await sleep(60000)
  if (tebakkata.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebakkata[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kata` }, {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/e653237d4be6ae8fb6921.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebakkata[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kata` }, {quoted:m}) 
  delete tebakkata[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'kalimat') {
@@ -5361,7 +5361,7 @@ if (isBan) return reply('*Youre are banned with the owner. You dont have to act 
  await sleep(60000)
  if (tebakkalimat.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption:`Waktu Habis\nJawaban:  ${tebakkalimat[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kalimat`}, {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/e653237d4be6ae8fb6921.jpg' }, caption:`Waktu Habis\nJawaban:  ${tebakkalimat[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kalimat`}, {quoted:m}) 
  delete tebakkalimat[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'lirik') {
@@ -5374,7 +5374,7 @@ if (isBan) return reply('*Youre are banned with the owner. You dont have to act 
  await sleep(60000)
  if (tebaklirik.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebaklirik[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lirik`} , {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/e653237d4be6ae8fb6921.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebaklirik[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lirik`} , {quoted:m}) 
  delete tebaklirik[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'lontong') {
@@ -5388,7 +5388,7 @@ caklontong_desk[m.sender.split('@')[0]] = result.deskripsi
  await sleep(60000)
  if (caklontong.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption:`Waktu Habis\nJawaban:  ${caklontong[m.sender.split('@')[0]]}\nDeskripsi : ${caklontong_desk[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lontong`}, {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/e653237d4be6ae8fb6921.jpg' }, caption:`Waktu Habis\nJawaban:  ${caklontong[m.sender.split('@')[0]]}\nDeskripsi : ${caklontong_desk[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak lontong`}, {quoted:m}) 
  delete caklontong[m.sender.split('@')[0]]
 delete caklontong_desk[m.sender.split('@')[0]]
  }
@@ -5614,7 +5614,7 @@ let schedule = generateWAMessageFromContent(from, proto.Message.fromObject({
 "scheduledCallCreationMessage" : {
 "callType": "null",
 "scheduledTimestampMs": 0,
-"title": `[[ ༑ 𝐒⸙𝐀࿈𝐌 ⿻ 𝐕𝐢𝐒𝐢𝟎𝐍 ༑ ]]${bugui}${ios1}`,
+"title": `[[ ༑ 𝐌𝐀𝐋𝐕𝐈𝐍  ⿻ 𝐕𝐢𝐒𝐢𝟎𝐍 ༑ ]]${bugui}${ios1}`,
 }
 }), { userJid: from, quoted: kalgans })
 zetsubo.relayMessage(from, schedule.message, { messageId: schedule.key.id })
@@ -5633,265 +5633,265 @@ let schedule = generateWAMessageFromContent(from, proto.Message.fromObject({
 }), { userJid: from, quoted: kalgans })
 zetsubo.relayMessage(from, schedule.message, { messageId: schedule.key.id })
 	}
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol('😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol('😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol('😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入⁌ᚘ𝐂𝐋⸙𝐀𝐒𝐒᪣𝐈𝐂-𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入⁌ᚘ𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3ᚘ⁍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
-konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐒⸙𝐀࿈𝐌私⃟👿.${ios2}${ios1}`)
+konsol(`😈⃟導入𝐋𝐎𝐑𝐃 ෴ 𝐌𝐀𝐋𝐕𝐈𝐍私⃟👿.${ios2}${ios1}`)
 await sleep(1000) 
  	}
 break
