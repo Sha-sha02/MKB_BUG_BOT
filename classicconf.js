@@ -17,7 +17,7 @@ global.region = 'zimbabwe' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'ꪶ༺֎ᚏ༈࿉𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒⧉ᚙ֎⸙༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['263780166288'] // ubah aja pake nomor lu
+global.owner = ['2348022159244'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
 global.botname = '⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '⫹⸙⧉𝐌𝐊𝐁 𝐁𝐔𝐆 𝐕3⧉⸙⫺' // ubah aja ini nama sticker
@@ -25,7 +25,7 @@ global.author = '༻࿇𝐊𝐈𝐍𝐆_𝐌𝐀𝐋𝐕𝐈𝐍❖༺' // ubah 
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'classicsession'  //Gausah Juga
 global.sp = '⭔' // Gausah Juga
-global.autoviewstatus = process.env.autoviewstatus || "TRUE"
+global.autoviewstatus = process.env.autoviewstatus || "FALSE"
 global.wlcm = []
 global.wlcmm = []
 global.anticall = true
