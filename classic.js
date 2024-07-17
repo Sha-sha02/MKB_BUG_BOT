@@ -19,7 +19,7 @@ const {
        downloadContentFromMessage, 
        areJidsSameUser, 
        getContentType 
-      } = require("@whiskeysockets/baileys")
+      } = require("@whiskeysockets/baileys").default
 const fs = require('fs')
 const util = require('util')
 const chalk = require('chalk')
